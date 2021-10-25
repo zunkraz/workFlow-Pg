@@ -1,0 +1,1 @@
+// Archivo JS de prueba para GitFlow
